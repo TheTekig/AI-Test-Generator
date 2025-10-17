@@ -1,10 +1,12 @@
 <h1 align="center">  AI-Test-Generator 🧪🤖 </h1>
 
 <p align="center">
+    
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-red?logo=openai&logoColor=white)](https://platform.openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](#)
+
 </p>
 
 ---

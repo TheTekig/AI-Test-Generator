@@ -117,5 +117,9 @@ Contribuições são bem-vindas! Abra issues ou pull requests para melhorias, bu
 
 ---
 
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+## 👨‍💻 Autor
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheTekig) Diogo Teodoro Dias Lamas
+
+<p align="center"> Feito em Python &nbsp;|&nbsp; <b>#SoftwareEngineering</b> 🧠 </p> 
+

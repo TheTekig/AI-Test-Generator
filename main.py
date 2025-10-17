@@ -1,8 +1,13 @@
 from openai import OpenAI
+from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
+api_key = os.getenv("OPENAI_API_KEY")
+
 try:
-    Client = OpenAI(api_key="colocar chave da api aqui")
+    Client = OpenAI(api_key="OPENAI_API_KEY")
 except Exception as e:
     print("ERRO: Interrupção da conexão com OpenAI key - ", e)
 def get_response(message,qtdTestes,valorToken):

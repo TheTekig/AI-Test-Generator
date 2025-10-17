@@ -57,6 +57,7 @@ Ideal para desenvolvedores que querem **aumentar a qualidade do código** sem es
 ---
 
 ## 🏃 Como usar
+
 Execute o script principal:
 
     1. python main.py
@@ -66,7 +67,7 @@ Execute o script principal:
 
 ---
 
-##📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 
     AI-Test-Generator/
     │
@@ -78,7 +79,7 @@ Execute o script principal:
 
 ---
 
-##💡 Exemplo de Teste Gerado
+## 💡 Exemplo de Teste Gerado
 
     from main_app import soma
     import pytest

@@ -1,4 +1,4 @@
-<h1 align="center">  AI-Test-Generator 🧪🤖 </h1>
+<h1 align="center"> <img src="./Ai_test_logo.png" ></h1>
 
 <p align="center">
     
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Sobre
+<h1 align="center"> 🚀 Sobre </h1>
 
 O **AI-Test-Generator** é uma ferramenta em Python que automatiza a criação de **testes unitários robustos com `pytest`** para funções Python.  
 Utilizando a **API da OpenAI**, o projeto gera testes seguindo o padrão **Arrange-Act-Assert (AAA)**, cobrindo:

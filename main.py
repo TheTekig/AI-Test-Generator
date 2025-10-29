@@ -113,5 +113,7 @@ def main():
     else:
         print("Erro ao adicionar o teste.")
 
-main()
+
+if __name__ = "__main__": 
+    main()
 

@@ -26,10 +26,10 @@ Ideal para desenvolvedores que querem **aumentar a qualidade do código** sem es
 
 ## ✨ Funcionalidades
 
-    - Geração automática de testes unitários para qualquer função Python.  
-    - Criação de arquivos de teste na pasta `Test/`.  
-    - Estrutura AAA rigorosa para clareza e manutenção.  
-    - Suporte a múltiplos testes por função (definido pelo usuário).  
+- Geração automática de testes unitários para qualquer função Python.  
+- Criação de arquivos de teste na pasta `Test/`.  
+- Estrutura AAA rigorosa para clareza e manutenção.  
+- Suporte a múltiplos testes por função (definido pelo usuário).  
 
 ---
 

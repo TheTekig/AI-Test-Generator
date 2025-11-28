@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./Ai_test_logo.png" ></h1>
+<h1 align="center"> <img src="./banner.png" ></h1>
 
 <p align="center">
     
